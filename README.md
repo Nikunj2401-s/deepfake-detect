@@ -1,7 +1,7 @@
 # 🧠 DeepFake Detect  
 ### *AI-Powered Media Authenticity Analyzer*  
 
-![DeepFake Detect Banner](https://user-images.githubusercontent.com/placeholder/deepfake-detect-banner.png)
+
 
 ---
 
@@ -29,16 +29,6 @@ Stores previous analyses for reference and comparison.
 
 ✅ **Responsive & Interactive Design**  
 Crafted with Tailwind CSS for a sleek, adaptive interface.  
-
----
-
-## 🖼️ UI Preview  
-
-| Upload Screen | Analysis Results | History |
-|---------------|------------------|----------|
-| ![Upload UI](https://user-images.githubusercontent.com/placeholder/upload-ui.png) | ![Results UI](https://user-images.githubusercontent.com/placeholder/results-ui.png) | ![History UI](https://user-images.githubusercontent.com/placeholder/history-ui.png) |
-
-*(Replace placeholders with screenshots of your app.)*
 
 ---
 
